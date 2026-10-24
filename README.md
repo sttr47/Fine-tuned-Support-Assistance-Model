@@ -95,7 +95,6 @@ Training runs on a free Google Colab T4 GPU using `notebooks/Fine-Tuned Model.ip
 
 Training time: *fill in*. First and last training loss: *fill in*. Validation loss per epoch: *fill in*.
 
-![Loss curve](results/loss_curve.png)
 
 ## Before and after fine-tuning
 
